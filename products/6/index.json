@@ -1,0 +1,12 @@
+{
+  "id": 6,
+    "title": "Printed T-shirt ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakewoocomapi.github.io/images/p-3.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+  }
+}
