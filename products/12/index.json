@@ -1,0 +1,12 @@
+{
+  "id": 12,
+  "title": "WD 4TB Coats",
+  "price": 114,
+  "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+  "category": "women's clothing",
+  "image": "https://fakewoocomapi.github.io/images/p-6.jpg",
+  "rating": {
+    "rate": 4.8,
+    "count": 400
+  }
+}
